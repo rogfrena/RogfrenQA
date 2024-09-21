@@ -18,11 +18,11 @@
   
   <h1>
   Hey There
-  <img src="" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/gustavo-art-kidmograph-gustavo-YyKPbc5OOTSQE.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc4bDhwOHBzbDZuaXVuMjB2YWdpaDZqbnU0YzNqZGtncmVvMTYyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YyKPbc5OOTSQE/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
