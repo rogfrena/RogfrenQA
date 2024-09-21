@@ -40,7 +40,9 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 # Conocimientos
 ### :hammer_and_wrench:Sistemas Operativos :
 <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Languages and Dev Tools :
