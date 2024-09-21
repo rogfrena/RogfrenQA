@@ -1,6 +1,8 @@
 # Rogfren
 # Acerca de Mi
-# Conocimientos
+
+# Badges
+# Trabajos
 
 
 <div id="header" align="center">
@@ -35,6 +37,11 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
 ---
+# Conocimientos
+### :hammer_and_wrench:Sistemas Operativos :
+<div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 ### :hammer_and_wrench: Languages and Dev Tools :
 <div>
@@ -51,9 +58,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
-</div>
+ </div>
 
 ### 🐞 Testing Tools :
 <div>
