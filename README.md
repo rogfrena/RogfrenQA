@@ -4,8 +4,7 @@
 
 
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="17511612" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/test-light-different-colors-animated-text-neon-gif-17511612">Test Light GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  <img src="https://tenor.com/es/view/test-light-different-colors-animated-text-neon-gif-17511612" width="100"/>
+     <img src="https://tenor.com/es/view/test-light-different-colors-animated-text-neon-gif-17511612.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/patricio-m-690b3729/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
