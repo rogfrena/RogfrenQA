@@ -9,7 +9,7 @@
      <img src="https://tenor.com/es/view/test-light-different-colors-animated-text-neon-gif-17511612.gif" width="400"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rogfren-angulo/">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30px"/>
     </a>
     <a href="https://twitter.com/rogfrena">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
