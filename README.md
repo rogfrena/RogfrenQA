@@ -1,5 +1,5 @@
 # Rogfren
-# Acerca de Mi
+
 
 # Badges
 # Trabajos
@@ -18,7 +18,7 @@
   
   <h1>
   Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc4bDhwOHBzbDZuaXVuMjB2YWdpaDZqbnU0YzNqZGtncmVvMTYyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YyKPbc5OOTSQE/giphy.webpgif" width="30px"/>
   </h1>
 </div>
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+# :man_technologist: Acerca de Mi :
 I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope: I’m working as a Engineer QA.
 
