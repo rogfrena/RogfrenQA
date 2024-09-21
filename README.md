@@ -1,6 +1,6 @@
 # Rogfren
 # Acerca de Mi
-# Conocimiento
+# Conocimientos
 
 
 <div id="header" align="center">
@@ -25,14 +25,14 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
+I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :telescope: I’m working as a Engineer QA.
 
 - :seedling:
 
 - :zap: In my free time, .
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
+- :mailbox: How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/rogfren-angulo)
 
 ---
 
