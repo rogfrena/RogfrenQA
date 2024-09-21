@@ -32,7 +32,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, .
 
-- :mailbox: How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-Pato-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/rogfren-angulo)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
 ---
 
