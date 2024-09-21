@@ -12,7 +12,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30px"/>
     </a>
     <a href="https://twitter.com/rogfrena">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="30px"/>
     </a>
   </div>
   
