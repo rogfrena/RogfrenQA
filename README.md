@@ -65,15 +65,16 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### :branch: Control de versiones :
+### 🌵: Control de versiones :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
 </div>
 ---
 
 # Badges
+ ![ASTFC](https://api.badgr.io/public/assertions/81XD-EpvQaagkJoYKrdDAA/image)
 <div>
-   <img src="https://api.badgr.io/public/assertions/81XD-EpvQaagkJoYKrdDAA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=rogfren.angulo%40gmail.com" title="Badge: Accredited Software Testing Fundamentals Certification (AICS® ASTFC)" style="width: 330px; height: 191px; border: 0px;">
+     <img src="https://api.badgr.io/public/assertions/81XD-EpvQaagkJoYKrdDAA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=rogfren.angulo%40gmail.com" title="Badge: Accredited Software Testing Fundamentals Certification (AICS® ASTFC)" style="width: 330px; height: 191px; border: 0px;">
 </div>
 
 # Trabajos
