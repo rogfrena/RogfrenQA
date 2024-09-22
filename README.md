@@ -76,7 +76,11 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 |-------|-------|------|
 |Accredited Software Testing Fundamentals Certification (AICS® ASTFC)|[Validar](https://badgr.com/backpack/badges/65d2167c6403b03e3d5ef278)|<img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">| 
 |Software Testing Annual Report Contributor 2024™|[Validar](https://badgr.com/backpack/badges/65a01e0df877db2c5fcdd2ae)|<img src="https://lh3.googleusercontent.com/kkpDrTC6pX9_3gR_KTnnqP-3GeupXVwbqBG080o8rZ8gJeMBaZUafjJOqCVReQ68s8LN=s85">|
-
+|Postman API Fundamentals Student Expert|[Validar](https://badgr.com/public/assertions/dKkFYaAtScGQfx2Ai5SG1w)|<img src="https://lh3.googleusercontent.com/siFPUVs2Un-YmtW3JckIdn1cjsc9Z5V2QruNayUobHXIR8OVXuz4EaxL5A14JnsRQ4qjDhY=s85">|
+|Introduction to Cybersecurity|[Validar](https://www.credly.com/badges/75581e8d-681c-48fa-9cb8-d0c311dac4ce?source=linked_in_profile)|<img src="https://lh3.googleusercontent.com/w19tMQkp0M_ixaz5py603z8GkwGJRTZ3TB53d5dFs1wEAHmIKI1iJTCGIjpK9YCnQ6Xu=s85">|
+|Scrum Fundamentals Certified|[Validar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RogfrenAnguloQuintero-834815.pdf)|<img src="https://lh3.googleusercontent.com/2Cmdtm4i7vMEM2CBawx1r88Pn6nuBuinUq2OL-BqrhXpRxUKWbyXk31S_mjPEw2Xnd3pSSo=s85">|
+||||
+||||
 
 
 # Trabajos
