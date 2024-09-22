@@ -38,6 +38,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 - :mailbox: Para Contactarme: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
+---
 
 # Conocimientos
 ### :hammer_and_wrench: Sistemas Operativos :
@@ -90,6 +91,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Light.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>  
 </div>
 
+---
 
 # Badges
 | Titulo|Link|Badge |
@@ -100,6 +102,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 |Introduction to Cybersecurity|[Validar](https://www.credly.com/badges/75581e8d-681c-48fa-9cb8-d0c311dac4ce?source=linked_in_profile)|<img src="https://lh3.googleusercontent.com/w19tMQkp0M_ixaz5py603z8GkwGJRTZ3TB53d5dFs1wEAHmIKI1iJTCGIjpK9YCnQ6Xu=s85">|
 |Scrum Fundamentals Certified|[Validar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RogfrenAnguloQuintero-834815.pdf)|<img src="https://lh3.googleusercontent.com/2Cmdtm4i7vMEM2CBawx1r88Pn6nuBuinUq2OL-BqrhXpRxUKWbyXk31S_mjPEw2Xnd3pSSo=s85">|
 
+---
 
 # EXPERIENCIA
 |EMPRESA|CARGO|ACTIVIDADES|LOGO|
@@ -109,6 +112,8 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 |Inversiones SB|Analista QA|Tester(funcional, exploratorio y automatización) Agil, pruebas en Backend a APIs construidas en JAVA,Consultas SQL a BD Oracle, PostgreSQL y H2, Lecturas Logs JSON y XML en Server Linux...|<img src="https://empresassb.cl/wp-content/uploads/2022/09/logoalta.png" width="100" height="100"/>|
 |Escuela de la Industria Grafica|Analista de Sistemas|Administrador de Sistemas Unifi Network, Coogle Workspace, Pagina WEB con CMS Wordpress, Servidores Linux y Windows, PLEK, Soporte Informatico...|<img src="https://coleccionyarchivo.wordpress.com/wp-content/uploads/2019/07/cropped-logo-eig-1.jpg" width="100" height="100"/>|
 
+---
+
 # FREELANCE EN UTEST
 <div id="header" align="center">
     <img src="https://play-lh.googleusercontent.com/9W6gaBYFAUD1mnoi-qouWhVYpkTV7b2WpWO873YZV-EhxefNuRiRfCgQbE8xVakEgQI=w416-h235-rw"> 
@@ -117,6 +122,27 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 <div>
      Como QA Tester Freelance en Utest, e participado en varios proyectos para diferentes empresas, realizando QA a aplicaciones Moviles y WEB.
 </div>
+
+---
+
+# CURSOS / CERTIFICACIONES
+
+-  Ingles A1, con Referencia al Marco Común Europeo para las Lenguas – ASINCAP.
+-  Accredited Software Testing Fundamentals Certification - Asociacion Internacional de Calidad de Software
+-  ISTQB Certified Tester Foundation level (CTFL) - Udemy     
+-  The Complete 2022 Software Testing Bootcamp – Udemy.
+-  Software Testing de Aplicaciones. Postman. Testing de API – Udemy.
+-  Software Testing desde cero: MasterClass todo en 1 (2022) – Udemy.
+-  Tester – Sence.
+-  Finder – Sence.
+-  Curador de Datos – Sence.     
+-  Desarrollador de Aplicaciones Java – MADICAP – Claro Chile.     
+- Desarrollador Front-End – Sence.
+- Administrador de Base de Datos – Sence.
+- Diplomado Técnico en Integridad Web – Fundación Carlos Slim.
+- Scrum Fundamentals Certified – SCRUMstudy.
+- Seguridad Informática: informática forense – LinkedIn.
+
 
 
 
