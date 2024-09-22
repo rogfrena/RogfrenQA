@@ -74,6 +74,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 # Badges
  ![ASTFC](https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85)
 <div>
+     <img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">
      <img src="https://api.badgr.io/public/assertions/81XD-EpvQaagkJoYKrdDAA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=rogfren.angulo%40gmail.com" title="Badge: Accredited Software Testing Fundamentals Certification (AICS® ASTFC)" style="width: 330px; height: 191px; border: 0px;">
 </div>
 
