@@ -24,8 +24,16 @@
 
 ---
 # :man_technologist: Acerca de Mi :
-I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
+<div>>
+     I am a Software Test Engineer 🐛 🐜 🔍 from Chile.
+Cuento con amplia experiencia trabajando como especialista en TI para empresas como: Banca, Salud, Retail, Servicios Públicos y Educación. 
+combinando solidas habilidades técnicas y analíticas. Apasionado por la
+tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
+     </div>
+     
 - :telescope: I’m working as a Engineer QA.
+
+
 
 - :seedling:
 
