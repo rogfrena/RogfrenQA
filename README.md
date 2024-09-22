@@ -99,13 +99,21 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 |Postman API Fundamentals Student Expert|[Validar](https://badgr.com/public/assertions/dKkFYaAtScGQfx2Ai5SG1w)|<img src="https://lh3.googleusercontent.com/siFPUVs2Un-YmtW3JckIdn1cjsc9Z5V2QruNayUobHXIR8OVXuz4EaxL5A14JnsRQ4qjDhY=s85">|
 |Introduction to Cybersecurity|[Validar](https://www.credly.com/badges/75581e8d-681c-48fa-9cb8-d0c311dac4ce?source=linked_in_profile)|<img src="https://lh3.googleusercontent.com/w19tMQkp0M_ixaz5py603z8GkwGJRTZ3TB53d5dFs1wEAHmIKI1iJTCGIjpK9YCnQ6Xu=s85">|
 |Scrum Fundamentals Certified|[Validar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RogfrenAnguloQuintero-834815.pdf)|<img src="https://lh3.googleusercontent.com/2Cmdtm4i7vMEM2CBawx1r88Pn6nuBuinUq2OL-BqrhXpRxUKWbyXk31S_mjPEw2Xnd3pSSo=s85">|
-||||
-||||
 
+
+# TRABAJOS
+|EMPRESA|CARGO|ACTIVIDADES|LOGO|
+|-------|-----|-----------|----|
+|Escuela de la Industria Grafica|Analista de Sistemas|Varios|<img src="https://coleccionyarchivo.wordpress.com/wp-content/uploads/2019/07/cropped-logo-eig-1.jpg" width="150" height="150"/>|
 
 # FREELANCE EN UTEST
+<div id="header" align="center">
+    <img src="https://play-lh.googleusercontent.com/9W6gaBYFAUD1mnoi-qouWhVYpkTV7b2WpWO873YZV-EhxefNuRiRfCgQbE8xVakEgQI=w416-h235-rw"> 
+</div>
+
 <div>
      Como QA Tester Freelance en Utest, e participado en varios proyectos para diferentes empresas, realizando QA a aplicaciones Moviles y WEB.
 </div>
+
 
 
