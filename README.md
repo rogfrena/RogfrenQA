@@ -39,6 +39,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg" title="Mac" alt="Mac" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Mac" alt="Mac" width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Languages Dev :
