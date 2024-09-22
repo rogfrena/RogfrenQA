@@ -24,22 +24,21 @@
 
 ---
 # :man_technologist: Acerca de Mi :
-<div>>
+<div>
      I am a Software Test Engineer 🐛 🐜 🔍 from Chile.
-Cuento con amplia experiencia trabajando como especialista en TI para empresas como: Banca, Salud, Retail, Servicios Públicos y Educación. 
+</div>
+
+<div>
+Cuento con amplia experiencia en TI para empresas como: Banca, Salud, Retail, Servicios Públicos y Educación. 
 combinando solidas habilidades técnicas y analíticas. Apasionado por la
 tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
-     </div>
+</div>     
      
-- :telescope: I’m working as a Engineer QA.
+- :telescope: Trabajo como Ingeniero QA, como colaborador para una empresa del Rubro Bancario.
 
+- :zap: En mi tiempo libre me dedico a investigar y capacitarme en el mundo del Testing, como tambien en areas del desarrollo del software.
 
-
-- :seedling:
-
-- :zap: In my free time, .
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
+- :mailbox: Como Contactarme: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
 ---
 # Conocimientos
@@ -68,7 +67,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Light.svg" title="RabbitMQ" **alt="RabbitMQ" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="Vscode" width="40" height="40"/>
