@@ -37,8 +37,9 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ### :hammer_and_wrench: Sistemas Operativos :
 <div>
      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" **alt="Windows" width="40" height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" title="MacOs" **alt="MacOs" width="40" height="40"/>&nbsp;
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" title="linux" **alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Mac" **alt="Mac" width="40" height="40"/>&nbsp;
+    
 </div>
 
 ### 🐞 Testing Tools :
@@ -72,6 +73,7 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL"  **alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL"  **alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" title="Oracle"  **alt="Oracle" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🌵: Control de versiones :
