@@ -72,13 +72,10 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 # Badges
-
-[validar](https://api.badgr.io/public/assertions/81XD-EpvQaagkJoYKrdDAA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=rogfren.angulo%40gmail.com)
+Accredited Software Testing Fundamentals Certification (AICS® ASTFC)
+[validar](https://badgr.com/backpack/badges/65d2167c6403b03e3d5ef278)
  <div>
-     <img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">
-     
-      
-    
+     <img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">    
 </div>
 
 # Trabajos
