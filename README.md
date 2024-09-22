@@ -73,10 +73,13 @@ I am a Software Test Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 # Badges
 Accredited Software Testing Fundamentals Certification (AICS® ASTFC)
-[validar](https://badgr.com/backpack/badges/65d2167c6403b03e3d5ef278)
- <div>
-     <img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">    
-</div>
+[Validar](https://badgr.com/backpack/badges/65d2167c6403b03e3d5ef278)
+<img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">    
+
+---
+Software Testing Annual Report Contributor 2024™
+[Validar](https://badgr.com/backpack/badges/65a01e0df877db2c5fcdd2ae)
+<img src="https://api.badgr.io/public/assertions/dReQIAzPQVeKCmgTtVde3A/image">
 
 # Trabajos
 
