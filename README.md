@@ -101,10 +101,13 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 |Scrum Fundamentals Certified|[Validar](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-RogfrenAnguloQuintero-834815.pdf)|<img src="https://lh3.googleusercontent.com/2Cmdtm4i7vMEM2CBawx1r88Pn6nuBuinUq2OL-BqrhXpRxUKWbyXk31S_mjPEw2Xnd3pSSo=s85">|
 
 
-# TRABAJOS
+# EXPERIENCIA
 |EMPRESA|CARGO|ACTIVIDADES|LOGO|
 |-------|-----|-----------|----|
-|Escuela de la Industria Grafica|Analista de Sistemas|Varios|<img src="https://coleccionyarchivo.wordpress.com/wp-content/uploads/2019/07/cropped-logo-eig-1.jpg" width="150" height="150"/>|
+|ACCENTURE|Custom Software Engineering Analyst|Casos de Prueba, Plan de Pruebas, Metodología Tradicional, Test funcionales, Regresión, Smoke, Pruebas UAT, Consultas BD SyBASE y SQL Server...|<img src="https://aecconsultoras.com/wp-content/uploads/2022/06/logo-accenture-boletin.jpg" width="100" height="100"/>|
+|SONDA|Ingeniero QA|Casos de Prueba, Plan de Pruebas, Metodología Tradicional, Test funcionales, Regresión, Smoke, Pruebas UAT, Consultas BD SyBASE y SQL Server...|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLPOxYJoOMuNhT-9-_ZghS2C0Qduzcfpos0FuJINVPvQbTYqLVcW26WFymoNaC4_khIw&usqp=CAU" width="100" height="100"/>|
+|Inversiones SB|Analista QA|Tester(funcional, exploratorio y automatización) Agil, pruebas en Backend a APIs construidas en JAVA,Consultas SQL a BD Oracle, PostgreSQL y H2, Lecturas Logs JSON y XML en Server Linux...|<img src="https://empresassb.cl/wp-content/uploads/2022/09/logoalta.png" width="100" height="100"/>|
+|Escuela de la Industria Grafica|Analista de Sistemas|Administrador de Sistemas Unifi Network, Coogle Workspace, Pagina WEB con CMS Wordpress, Servidores Linux y Windows, PLEK, Soporte Informatico...|<img src="https://coleccionyarchivo.wordpress.com/wp-content/uploads/2019/07/cropped-logo-eig-1.jpg" width="100" height="100"/>|
 
 # FREELANCE EN UTEST
 <div id="header" align="center">
