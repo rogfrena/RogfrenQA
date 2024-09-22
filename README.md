@@ -1,8 +1,9 @@
-# Rogfren Angulo
+
+![github-header-image (1)](https://github.com/user-attachments/assets/967e1b3f-1b83-4cff-bc0b-a2c219d37410)
 
 
 <div id="header" align="center">
-     <img src="https://tenor.com/es/view/test-light-different-colors-animated-text-neon-gif-17511612.gif" width="400"/>
+     
   <div id="badges">
     <a href="https://www.linkedin.com/in/rogfren-angulo/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30px"/>
