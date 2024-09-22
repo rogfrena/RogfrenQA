@@ -34,11 +34,11 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 - :zap: En mi tiempo libre me dedico a investigar y capacitarme en el mundo del Testing, como tambien en areas del desarrollo del software.
 
-- 🆓 Como QA Tester Freelancer, e participado en varios proyectos para grandes empresas, realizando QA a aplicaciones Moviles y Paginas WEB.  
+- 🆓 Como QA Tester Freelance, e participado en varios proyectos para grandes empresas, realizando QA a aplicaciones Moviles y Paginas WEB.  
 
 - :mailbox: Para Contactarme: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
----
+
 # Conocimientos
 ### :hammer_and_wrench: Sistemas Operativos :
 <div>
@@ -89,7 +89,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="Gitlab" **alt="GitLab" width="40" height="40"/>  
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Light.svg" title="Bitbucket" **alt="Bitbucket" width="40" height="40"/>  
 </div>
----
+
 
 # Badges
 | Titulo|Link|Badge |
@@ -103,5 +103,9 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 ||||
 
 
-# Trabajos
+# FREELANCE EN UTEST
+<div>
+     Como QA Tester Freelance en Utest, e participado en varios proyectos para diferentes empresas, realizando QA a aplicaciones Moviles y WEB.
+</div>
+
 
