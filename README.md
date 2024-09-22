@@ -8,14 +8,10 @@
     <a href="https://www.linkedin.com/in/rogfren-angulo/">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="30px"/>
     </a>
-    <a href="https://twitter.com/rogfrena">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="30px"/>
-    </a>
   </div>
   
   <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
@@ -25,7 +21,7 @@
 ---
 # :man_technologist: Acerca de Mi :
 <div>
-     I am a Software Test Engineer 🐛 🐜 🔍 from Chile.
+     Soy Ingeniero QA 🐛 🐜 🔍 ubicado en Chile.
 </div>
 
 <div>
@@ -38,7 +34,9 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 - :zap: En mi tiempo libre me dedico a investigar y capacitarme en el mundo del Testing, como tambien en areas del desarrollo del software.
 
-- :mailbox: Como Contactarme: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
+- 🆓 Como QA Tester Freelancer, e participado en varios proyectos para grandes empresas, realizando QA a aplicaciones Moviles y Paginas WEB.  
+
+- :mailbox: Para Contactarme: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogfren-angulo)
 
 ---
 # Conocimientos
