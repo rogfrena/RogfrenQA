@@ -40,7 +40,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 ---
 
-# Conocimientos
+# :books: Conocimientos
 ### :hammer_and_wrench: Sistemas Operativos :
 <div>
      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" **alt="Windows" width="40" height="40"/>&nbsp;
@@ -60,7 +60,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg" title="Gherkin" **alt="Gherkin" width="40" height="40"/>
 </div>
 
-### :hammer_and_wrench: Languages & Dev Tools :
+### :hammer: Languages & Dev Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -93,7 +93,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 ---
 
-# Badges
+# :trophy: Badges
 | Titulo|Link|Badge |
 |-------|-------|------|
 |Accredited Software Testing Fundamentals Certification (AICS® ASTFC)|[Validar](https://badgr.com/backpack/badges/65d2167c6403b03e3d5ef278)|<img src="https://lh3.googleusercontent.com/HTRoguDXQHk6i_OLItPV3fFERsV2dGjRVqbK0Eyqx0-H-6rOIhYsOdGsBIQSn3gaohMDhA=s85">| 
@@ -104,7 +104,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 ---
 
-# EXPERIENCIA
+# 🥇 EXPERIENCIA
 |EMPRESA|CARGO|ACTIVIDADES|LOGO|
 |-------|-----|-----------|----|
 |ACCENTURE|Custom Software Engineering Analyst|Casos de Prueba, Plan de Pruebas, Metodología Tradicional, Test funcionales, Regresión, Smoke, Pruebas UAT, Consultas BD SyBASE y SQL Server...|<img src="https://aecconsultoras.com/wp-content/uploads/2022/06/logo-accenture-boletin.jpg" width="100" height="100"/>|
@@ -114,7 +114,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 ---
 
-# FREELANCE EN UTEST
+# 🏁 FREELANCE EN UTEST
 <div id="header" align="center">
     <img src="https://play-lh.googleusercontent.com/9W6gaBYFAUD1mnoi-qouWhVYpkTV7b2WpWO873YZV-EhxefNuRiRfCgQbE8xVakEgQI=w416-h235-rw"> 
 </div>
@@ -125,7 +125,7 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 
 ---
 
-# CURSOS / CERTIFICACIONES
+# :gem: CURSOS / CERTIFICACIONES
 
 -  Ingles A1, con Referencia al Marco Común Europeo para las Lenguas – ASINCAP.
 -  Accredited Software Testing Fundamentals Certification - Asociacion Internacional de Calidad de Software
