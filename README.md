@@ -22,6 +22,8 @@
 # :man_technologist: Acerca de Mi :
 <div>
      Soy Ingeniero QA 🐛 🐜 🔍 ubicado en Chile.
+     <br>
+     <br>
 </div>
 
 <div>
@@ -120,8 +122,30 @@ tecnología y el desarrollo TI, Autodidacta y en constante aprendizaje.
 </div>
 
 <div>
+     <br>
      Como QA Tester Freelance en Utest, e participado en varios proyectos para diferentes empresas, realizando QA a aplicaciones Moviles y WEB.
 </div>
+<div>
+     <br>
+    Algunos proyectos en los que e participado: 
+     <br>
+     <br>
+</div>
+
+
+|PROYECTO|AMBIENTE|ACTIVIDADES|IMG|
+|--------|--------|-----------|---|
+|Western Union|MOVIL|prueba de aplicacion Android y mensajeria Email, Pruebas de pago con trasferencias bancarias|    |
+|Telefonica Investigacion y Desarrollo SA|MOVIL|Prueba de aplicacion Android, Pruebas de rendimiento en reproducciones On Demond y Live|    |
+|Betway Ltd|WEB|Pruebas de registro, deposito y retiro de fondos|    |
+|Versuni Philips|MOVIL y HARDWARE|Prueba de aplicacion Android, APP NutriU de Philips Y Hardware Airfryer|    |
+|Revolut|MOVIL|Pruebas de flujo en aplicacion Android, registro de Usuario con documentos Erroneos|    |
+|Meta facebook|MOVIL|Prueba de pagos de publicidad desde aplicacion movil facebook para la region de Chile|    |
+|VixTV|MOVIL|Pruebas exploratorias|    |
+| Industries SpA (Moncler)|WEB| UX - Pruebas exploratorias, funcionamiento de Web |    |
+| Coty - Max Factor - BURST|MOVIL|pruebas exploratorias, pruebas web de UX pagina traducida al español|    |
+| Squire Technologies |MOVIL |pruebas exploratorias para aplicacion movil de barber shop en Piloto para android|  | 
+
 
 ---
 
